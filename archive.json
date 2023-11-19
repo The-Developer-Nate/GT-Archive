@@ -9,7 +9,7 @@
     ],
     "bugs": [
         {
-		  	"id": "pro",
+	    "id": "pro",
             "name": "Player rig offset",
             "description": "All rigs (excluding yours) are moved up more than normal, your rig also has this issue but in reverse; your rig is moved down more.",
             "status": "working on a fix"
